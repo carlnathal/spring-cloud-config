@@ -1,5 +1,5 @@
 token:
   expiration_time: 86400000
-  secret: user_token_rmfwkrlfdlakwcnjdigkslRKtt
+  secret: user_token_rmfwkrlfdlakwcnjdigkslRKtt_qusrudgoTdma
 gateway:
   ip: 192.168.1.4
